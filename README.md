@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Just a sample apps for me to learn Rails =]
 
 
 Please feel free to use a different markup language if you do not plan to run
